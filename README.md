@@ -9,7 +9,7 @@ The Everything Open Source Sprint is an open source sprint designed to welcome c
 ## Projects participating in the sprints
 
 <details open>
- <summary><h2>Learn about the participating projects</h2></summary>
+ <summary><h3>Learn about the participating projects</h3></summary>
  
  | Name of Project| About the Project| Sprint Goals | Tech Stack Needed to Contribute |
  | ----------------- | ------------------- | ------------------------------ | ------------------- |
