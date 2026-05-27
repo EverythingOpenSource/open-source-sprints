@@ -6,6 +6,10 @@ The Everything Open Source Sprint is an open source sprint designed to welcome c
 - Maintainers and project teams seeking contributors for open issues and ongoing work
 - Communities interested in creating clear contribution pathways and welcoming first-time contributors
 
+## Want to help make this happen?
+Sponsor the sprint and help us keep open source accessible to everyone. Send your contributions to https://opencollective.com/everything-open-source or email us at everythingopensource@gmail.com.
+
+
 ## Projects participating in the sprints
 
 <details open>
